@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Assistente>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
