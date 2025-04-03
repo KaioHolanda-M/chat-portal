@@ -8,15 +8,15 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
-            margin: 5;
-            padding: 5;
+            margin: 5px;
+            padding: 5px;
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
         }
         .chat-container {
-            background-color: #fffff;
+            background-color: #ffffff;
             border-radius: 8px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
             width: 400px;
