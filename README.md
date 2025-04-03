@@ -118,7 +118,7 @@
                 addMessage(messageText, true); // Mensagem enviada
             // Enviar para o n8n
                fetch(n8nWebhookUrl, {
-                    method: 'POST',
+                    method: 'GET',
                     headers: {
                         'Content-Type': 'application/json'
                     },
